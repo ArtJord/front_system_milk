@@ -273,6 +273,7 @@ import http from '@/lib/http'
 //teste
 const REQUIRED_ON_UPDATE = ['numero_animal']
 
+
 // Endpoints
 const LIST_ENDPOINT = '/vacas'   // GET (listar)
 const CREATE_ENDPOINT = '/vaca'  // POST (criar)
